@@ -1,0 +1,10 @@
+Expected - ETA 3 Months
+1. we should have depth knowledge about UX
+2. We should depth knowledge about JS, CSS, Angular React, JS Libraries, CSS libraries, UI building libaries
+3. We should capable to crack any Interview
+4. we should capable enough to build entire full stack application using JS
+
+By March 1st week we should have start building journey of 100 UI Designs , Templates.
+Show in portfolio
+
+Best out of best UX
