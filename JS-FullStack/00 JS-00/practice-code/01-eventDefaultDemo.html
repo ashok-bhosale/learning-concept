@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Without preventDefault</title>
+    <style>
+        input[type="checkbox"] {
+            appearance: none; /* Removes default style */
+            width: 20px;
+            height: 20px;
+            border: 2px solid blue; /* Initial border color */
+            border-radius: 4px; /* Optional: for rounded corners */
+            outline: none;
+            cursor: pointer;
+        }
+
+        input[type="checkbox"]:checked {
+            border-color: green; /* Change border color when checked */
+            background-color: lightgreen; /* Optional: add a background color */
+        }
+
+        input[type="checkbox"]:hover {
+            border-color: red; /* Change border color on hover */
+        }
+    </style>
+</head>
+<body>
+    <input type="checkbox" id="myCheckbox">
+    <label for="myCheckbox">Check me!</label>
+    <script>
+        document.getElementById('myCheckbox').addEventListener('click', function () {
+            
+            alert('Checkbox toggled!');
+            // No preventDefault, so the checkbox state changes.
+           // event.preventDefault();
+        });
+    </script>
+</body>
+</html>
