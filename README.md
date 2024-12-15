@@ -1,13 +1,13 @@
 # learning-concept
 
-#Assignment 1 :- TechStack UpSkilling 
+#Assignment 1 :- TechStack UpSkilling -ETA-2 year
 
 
 UX/ UI Site Tech Stack To Learn
 
 HTML,CSS,HTML,CSS3, SASS,SCSS, Bootstrap,Tailwind, Material UI,
 JavaScript, TypeScript,JQuery, Ajax
-Angular,React,Redux,
+Angular,React,Redux,React Native
 Node Js, Express, GraphQL, MERN 
 Blazor, MVC,
 WPF
@@ -75,15 +75,18 @@ Tedx Talk level Learning
 
 
 
-#Assignment 2 Interview preparation
+#Assignment 2 Interview preparation-  6months
 
 
-#Assignment 3 POC Projects ,Working On Live Projects.
+#Assignment 3 POC Projects ,Working On Live Projects.--1 year
 
 #Assignment 4 Creating All Necessary to Deliver Project on Time. Standards, Required Code, Design Template, Functional Requirement, Non Functional Requirement.
-               Learning design study of various systems.
+               Learning design study of various systems. -1 year
 
+			   
 
+4 yr 6months
+==> Start Giving Interview 
 
 
 
