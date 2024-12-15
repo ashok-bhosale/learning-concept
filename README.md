@@ -75,12 +75,12 @@ Tedx Talk level Learning
 
 
 
-# Assignment 2 Interview preparation
+#Assignment 2 Interview preparation
 
 
-# Assignment 3 POC Projects ,Working On Live Projects.
+#Assignment 3 POC Projects ,Working On Live Projects.
 
-# Assignment 4 Creating All Necessary to Deliver Project on Time. Standards, Required Code, Design Template, Functional Requirement, Non Functional Requirement.
+#Assignment 4 Creating All Necessary to Deliver Project on Time. Standards, Required Code, Design Template, Functional Requirement, Non Functional Requirement.
                Learning design study of various systems.
 
 
