@@ -50,7 +50,7 @@ Github
 
 
 System Architecture
-=
+
 System Designs
 DSA
 Software Architecture, Design pattern
