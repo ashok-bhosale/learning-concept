@@ -1,0 +1,77 @@
+### **Course Curriculum: Introduction to Web and Front-End Development**
+
+#### **Module 1: Basics of the Web**
+- **What is the Internet?**
+  - How the Internet works (basic explanation for non-IT people)
+  - Key concepts: servers, clients, and browsers
+- **What is a Website?**
+  - Overview of websites and web applications
+  - Examples of static vs. dynamic websites
+- **How Does a Website Load?**
+  - Role of domain names, IP addresses, and DNS
+  - Introduction to HTTP/HTTPS
+
+#### **Module 2: Understanding Front-End and Back-End**
+- **Introduction to Front-End Development**
+  - What is front-end development? (user interface)
+  - Examples of front-end technologies (HTML, CSS, JavaScript)
+  - Real-world examples of great front-end designs
+- **Introduction to Back-End Development**
+  - Overview of what happens behind the scenes
+  - Introduction to databases and APIs (basic concept)
+
+#### **Module 3: Tools and Technologies of the Web**
+- **Browsers and Developer Tools**
+  - What are web browsers?
+  - Brief introduction to browser developer tools
+- **Web Development Tools**
+  - Text editors (e.g., VS Code, Notepad++)
+  - Browsing the web responsibly (importance of security and privacy)
+- **Design Tools**
+  - Role of design software (Figma, Canva)
+
+#### **Module 4: Core Concepts of the Web**
+- **HTML: The Structure**
+  - What is HTML? (analogy with building blocks)
+  - Basic structure of an HTML page
+  - Simple examples (e.g., headings, paragraphs, links)
+- **CSS: The Style**
+  - What is CSS? (analogy with decorating a room)
+  - Adding colors, fonts, and layouts
+- **JavaScript: The Behavior**
+  - What is JavaScript? (analogy with making a toy move)
+  - Introduction to interactivity (e.g., button click examples)
+
+#### **Module 5: How Websites are Built**
+- **Planning and Designing a Website**
+  - Importance of understanding user needs
+  - Basics of wireframing and layouts
+- **Building a Simple Website**
+  - Step-by-step walkthrough of building a basic webpage
+  - Introduction to responsive design
+- **Hosting and Publishing**
+  - Basics of how websites go live
+  - Free hosting platforms (e.g., GitHub Pages, Netlify)
+
+#### **Module 6: Real-World Applications**
+- **Examples of Front-End Applications**
+  - Walkthrough of familiar websites (YouTube, Amazon, etc.)
+  - How front-end development impacts user experience
+- **Why Learn Front-End Development?**
+  - Career opportunities in front-end development
+  - Importance of front-end for small business owners
+
+#### **Module 7: Closing and Resources**
+- **Q&A and Recap**
+  - Recap of key points
+  - Common myths about web development
+- **Learning Resources**
+  - Recommended websites and books for beginners
+  - Communities for learning and support (e.g., freeCodeCamp, Codecademy)
+  
+#### **Activities and Exercises**
+- Small quizzes to test understanding
+- Hands-on exercise: Building a personal webpage (guided project)
+- Group discussion on favorite websites and why they are user-friendly
+
+This curriculum is designed to simplify web concepts for non-IT participants while sparking curiosity about front-end development.
