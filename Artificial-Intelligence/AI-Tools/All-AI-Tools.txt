@@ -1,15 +1,31 @@
 Here’s a comprehensive list of AI tools widely used across various industries, categorized by their functionality:
 
----
+
 
 ### **1. AI Tools for Developers**
 - **GitHub Copilot**: AI-powered code completion and suggestions.
-- **Tabnine**: AI-driven coding assistant for multiple programming languages.
-- **Replit Ghostwriter**: AI-powered coding, debugging, and explanations within Replit IDE.
 - **AWS CodeWhisperer**: AI assistant for code writing, integrated with AWS services.
 - **Kite**: AI code completions and inline documentation.
 - **Codex (OpenAI)**: Foundation model for code understanding and generation.
 
+=================
+--- Udemy AI Courses. for Faster work
+https://www.udemy.com/course/mastering-github-copilot-for-java-spring-boot-developers/?couponCode=KEEPLEARNING
+https://www.udemy.com/course/mastering-github-copilot-for-python-django-rest-developers/?couponCode=KEEPLEARNING#instructor-1
+https://www.udemy.com/course/mastering-github-copilot-for-javascript-and-react-developers/?couponCode=KEEPLEARNING
+https://www.udemy.com/course/github-copilot-masterclass/?couponCode=KEEPLEARNING
+https://www.udemy.com/course/master-generativeai-though-prompt-engineeringgithub-copilot/?couponCode=KEEPLEARNING
+https://www.udemy.com/course/github-copilot-complete-guide/?couponCode=KEEPLEARNING
+[AI for business - AI 101 fundamentals for managers & leaders | Udemy](https://www.udemy.com/course/ai-for-managers/?couponCode=LEARNNOWPLANS)
+[Generative AI for Leaders & Business Professionals | Udemy](https://www.udemy.com/course/generative-ai-for-leaders/?couponCode=LEARNNOWPLANS)
+[The Complete Artificial Intelligence (AI) for Professionals | Udemy](https://www.udemy.com/course/the-complete-artificial-intelligence-ai-for-professionals/?couponCode=LEARNNOWPLANS)
+[Learn Generative AI in Software Testing | Udemy](https://www.udemy.com/course/generative-ai-in-software-testing/?couponCode=LEARNNOWPLANS)
+[Full AI Course: ChatGPT, Google Gemini, Midjourney, Firefly | Udemy](https://www.udemy.com/course/full-ai-course-chatgpt-google-gemini-midjourney-firefly/?couponCode=LEARNNOWPLANS)
+[The AI Engineer Course 2024: Complete AI Engineer Bootcamp | Udemy](https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/?couponCode=LEARNNOWPLANS)
+[ChatGPT
+Complete Guide: Learn Generative AI, ChatGPT & More | Udemy](https://www.udemy.com/course/complete-ai-guide/?couponCode=LEARNNOWPLANS)
+[Mastering Solution Architecture | Udemy](https://www.udemy.com/course/mastering-solution-architecture/?couponCode=IND21PM)
+================
 ---
 
 ### **2. AI Tools for Software Architecture**

@@ -1,3 +1,6 @@
+Course to learn=>https://www.udemy.com/course/plantuml-in-action/?couponCode=KEEPLEARNING
+https://www.udemy.com/course/software-architecture-case-studies/?couponCode=KEEPLEARNING
+
 System Design -> Basic Course created @local
 
 Software architecture
