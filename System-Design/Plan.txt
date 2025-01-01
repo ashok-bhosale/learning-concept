@@ -1,5 +1,12 @@
+Should know 
+Solid understanding on cloud design patterns like CQRS, SAGA, Choreography, Queue , Pub/Sub, Microservices, Event Driven based design
+
 Course to learn=>https://www.udemy.com/course/plantuml-in-action/?couponCode=KEEPLEARNING
 https://www.udemy.com/course/software-architecture-case-studies/?couponCode=KEEPLEARNING
+
+==
+https://www.designgurus.io/path/system-design-interview-playbook
+===
 
 System Design -> Basic Course created @local
 
