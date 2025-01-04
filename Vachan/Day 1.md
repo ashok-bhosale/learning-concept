@@ -8,7 +8,7 @@
 **Message from Lord**:-
 	Lord is trying to say here that , I have seen your tear, cry you had in your bad time, pain you got in your bad time, I was hearing all your prayer that time also now also in future also.
 	Do not fear, I am there with you, I am acknowledging your all prayer now with this verses.
-	Like what i said to Mariam and Magdalena Same I am telling you if you trust you will see glory of god with in your lord.
+	Like what i said to Mariam and Magdalena Same I am telling you if you trust your Lord,you will see glory of god with in your Life.
 	
 
 **English  Verses**
