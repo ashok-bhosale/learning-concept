@@ -1,0 +1,53 @@
+Day2
+https://www.fullstack.cafe/
+
+https://www.fullstack.cafe/interview-questions/software-architecture
+
+Most critical question
+
+MAANG - top companies, interview
+
+1. please Software design principle ( KISS, DRY, YAGINI,SOLID principle)
+2. Design pattern -- Object based  -creational structural,behavioural
+	link :-https://refactoring.guru/design-patterns  - object- creation, strucutral, behaving
+3. Different types various  software architectural pattern in software
+ -- event driven  -- messager broker=> kafka,activemq, rabbit mq,msmq
+-- client server
+-- 3 tier, n tier client server --presentatio -business asp.net=dataaccess layer asp.net core
+-- MVC
+-MVVP
+- event sourcing.
+monolithical
+-microservice famous architectural design pattern
+- clean architectual
+-- hexagonal
+- Domain driven design
+--MVVM
+
+
+Taskboard
+https://www.notion.so/
+Account
+Left page=>
+Board =>
+left not started, pending ,completed.
+
+
+Single page application
+1.Single html page.
+various component=>
+2. earlier for every request,its required to go to server but spa its loading different component
+navigate=> internally with link
+youtube.com
+3. your navigation inside pages, but url is same from begining.
+4 only for seck of data 
+Raise AJAX call.
+
+youtube.com
+
+system design
+https://excalidraw.com/
+
+REST
+GraphQL query
+
