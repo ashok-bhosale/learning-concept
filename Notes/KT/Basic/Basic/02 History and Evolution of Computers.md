@@ -85,12 +85,12 @@ The development of computers can be traced through generations, each characteriz
 
 ### Summary of Evolution
 
-|**Generation**|**Technology**|**Characteristics**|
-|---|---|---|
-|First|Vacuum Tubes|Bulky, expensive, and energy-intensive.|
-|Second|Transistors|Smaller, faster, and more reliable.|
-|Third|Integrated Circuits|Compact, cost-effective, multi-tasking capabilities.|
-|Fourth|Microprocessors|PCs, GUIs, and networking.|
-|Fifth|AI and Quantum Tech|Intelligent systems, machine learning, IoT, and futuristic computing paradigms.|
+| **Generation** | **Technology**      | **Characteristics**                                                             |
+| -------------- | ------------------- | ------------------------------------------------------------------------------- |
+| First          | Vacuum Tubes        | Bulky, expensive, and energy-intensive.                                         |
+| Second         | Transistors         | Smaller, faster, and more reliable.                                             |
+| Third          | Integrated Circuits | Compact, cost-effective, multi-tasking capabilities.                            |
+| Fourth         | Microprocessors     | PCs, GUIs, and networking.                                                      |
+| Fifth          | AI and Quantum Tech | Intelligent systems, machine learning, IoT, and futuristic computing paradigms. |
 
 The evolution of computers demonstrates continuous innovation, making them indispensable in modern life.

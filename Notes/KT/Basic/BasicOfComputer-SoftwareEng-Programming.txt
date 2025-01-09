@@ -18,15 +18,43 @@ This course is designed to introduce fundamental concepts of computers, covering
 ### **Module 2: Computer Hardware**  
 2.1 Input Devices: Keyboard, Mouse, Scanner, Microphone  
 2.2 Output Devices: Monitor, Printer, Speakers  
-2.3 Internal Components: CPU, Motherboard, RAM, Hard Drive, SSD  
-2.4 Storage Devices: USB Drives, External Hard Drives, Cloud Storage  
+2.3 Internal Components: CPU thread, Motherboard, RAM, Hard Drive, SSD   -- VM - creation cloud aws, azure, gcp
+2.4 Storage Devices: USB Drives, External Hard Drives, Cloud Storage ( google drive 15 gb,hotmail onedrive  1 GB free sapce)
+GEMINI =. AI tool chatgpt, Microsoft AI
 2.5 Peripheral Devices: Webcam, External GPU  
 
+
+To convert 1 bit to terabytes (TB), follow these steps:
+1. Unit Definitions
+
+    1 byte = 8 bits
+    1 kilobyte (KB) = 1024 bytes
+    1 megabyte (MB) = 1024 KB
+    1 gigabyte (GB) = 1024 MB
+    1 terabyte (TB) = 1024 GB
+    1 peta byte PT=1024 TB  = > Data lake aws,azure , Data warehouse stores eg salesforce,
+
+Eg of Data engineering.
+link- https://github.com/ashok-bhosale/learning-concept/blob/main/Data%20Engieering/DataEngieering.jpg
+
+1 100*2KB *365*3 KB=estimate= 3 yr= storage aws ,azure chahiye i purchase. = cost,
+1. float,dec , int =rocket=> trillion missle= fat
+2. Aircraft= indigo=> software, 0.01 acuracy landing=> plain crash. latitude ,lang=> OLA, UBER=> 
+3. problem solving => datatype , int =2 byte. float=4 double 8 bytes. C#
+4/ Server archtec, Vm= SSD 500 GB,1 tb 1gb 1 tb, 
 ---
+Tools
+Chatgpt, gemini AI Tool, obsidiean notes, github publish content,
+system design tool=>https://excalidraw.com/
+wireframe=> figma 
+
+
+===========================================================================================================
+
 
 ### **Module 3: Computer Software**  
 3.1 Definition of Software  
-3.2 Types of Software: System Software, Application Software  
+3.2 Types of Software: System Software OS ,VM, Application Software  word,powerpoint,excel
 3.3 Operating Systems: Windows, macOS, Linux (Basics)  
 3.4 Software Installation and Management  
 
@@ -34,7 +62,7 @@ This course is designed to introduce fundamental concepts of computers, covering
 
 ### **Module 4: Data Representation and Processing**  
 4.1 Binary Numbers and Their Role in Computers  
-4.2 ASCII and Unicode: Text Representation  
+4.2 ASCII and Unicode: Text Representation  		\n \r a65 A 97 c language
 4.3 How Data is Stored and Processed in Computers  
 
 ---
