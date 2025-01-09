@@ -5,7 +5,7 @@ https://www.fullstack.cafe/interview-questions/software-architecture
 
 Most critical question
 
-MAANG - top companies, interview
+MAANG - top companies, interview IP,DNS,http,https
 
 1. please Software design principle ( KISS, DRY, YAGINI,SOLID principle)
 2. Design pattern -- Object based  -creational structural,behavioural

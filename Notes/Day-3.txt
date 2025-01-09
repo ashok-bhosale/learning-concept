@@ -1,0 +1,39 @@
+Basic of Btech/MCA
+
+Very basic to all Non IT people => Clear
+foundation of IT
+
+https://www.javatpoint.com/
+
+Software=set of program written with  help ofTechnology =(.net, java,front,backend) serving business functionality is called software with help of computer.
+Business=> Bussiness functionality manually  => Converted software solution= > 
+
+SDLC=> business requirement=> build software
+processes =>  SDLC 
+
+Busines requirement=> 1 want to collect form entry from all student
+form=notebook paper entry.= physical paper,pen 100, 10000,100000 =feasible not
+set of program (software) build same form, =deploy in cloud=> 
+
+feat=> mail shoot report= record 
+feaure-3=  pdf export
+
+2 assignment, case studies
+
+foundation build karna = Basic of BTECH MCA,
+
+DBMS
+DSA
+OS  => threading
+software eng
+
+Questions=> raise,
+
+HTML,CSS,Javascript, Typescript, Angulare,react, front
+back end node js 
+
+web 3.0+cloud
+Use GEN AI=> SDLC=> AI, ML ,genai  video, text,content
+2.8 million 
+germony
+
