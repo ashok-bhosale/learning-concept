@@ -20,8 +20,11 @@ This course is designed to introduce fundamental concepts of computers, covering
 2.2 Output Devices: Monitor, Printer, Speakers  
 2.3 Internal Components: CPU thread, Motherboard, RAM, Hard Drive, SSD   -- VM - creation cloud aws, azure, gcp
 2.4 Storage Devices: USB Drives, External Hard Drives, Cloud Storage ( google drive 15 gb,hotmail onedrive  1 GB free sapce)
-GEMINI =. AI tool chatgpt, Microsoft AI
+GEMINI =. AI tool chatgpt, Microsoft AI https://copilot.microsoft.com
+Chat gpt=content=> github published
 2.5 Peripheral Devices: Webcam, External GPU  
+
+
 
 
 To convert 1 bit to terabytes (TB), follow these steps:
@@ -50,7 +53,8 @@ wireframe=> figma
 
 
 ===========================================================================================================
-
+GPU  vs CPU
+GPU=> AI , ML program
 
 ### **Module 3: Computer Software**  
 3.1 Definition of Software  
@@ -65,6 +69,30 @@ wireframe=> figma
 4.2 ASCII and Unicode: Text Representation  		\n \r a65 A 97 c language
 4.3 How Data is Stored and Processed in Computers  
 
+if(cond1 AND Cond2) true  both should be true
+AND= all condition true  T and T  =T
+
+if(cond1 (tuRe) OR Cond2(false))  atleast one of them
+OR T or T= T
+
+if( Not(cond1)) = 
+
+Cond1= T  ~T= F
+           F ~F= T
+
+if(true)
+{
+	execute
+}
+
+case1
+cond= (2==2)
+case2
+cond=(2==3)
+
+if( Not(cond)) {   
+print("hello world");
+}
 ---
 
 ### **Module 5: Introduction to Networking**  
@@ -81,7 +109,6 @@ wireframe=> figma
 6.3 Desktop Navigation: Files, Folders, and Shortcuts  
 6.4 Basics of Command-Line Interfaces (Optional)  
 
----
 
 ### **Module 7: Introduction to Productivity Software**  
 7.1 Word Processing: Microsoft Word, Google Docs  
@@ -89,7 +116,8 @@ wireframe=> figma
 7.3 Presentations: Microsoft PowerPoint, Google Slides  
 7.4 Email Applications: Gmail, Outlook Basics  
 
----
+=======================================================================================================
+
 
 ### **Module 8: Internet and Cybersecurity**  
 8.1 What is the Internet? How Does it Work?  
