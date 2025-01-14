@@ -100,11 +100,5 @@ This course provides a foundational understanding of the Linux operating system,
 
 **Assessment:**
 
-- Regular hands-on exercises and quizzes.
-- A final project involving writing a simple Bash script to automate a task.
 
-**Prerequisites:**
-
-- Basic computer literacy.
-
-This outline provides a strong foundation in Linux fundamentals and command-line usage. The specific commands and topics covered can be adjusted based on the target audience and the available time. This course emphasizes practical skills, enabling students to confidently use Linux in various contexts.
+Write Shell Script to do some operations

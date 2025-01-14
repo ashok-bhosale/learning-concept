@@ -7,7 +7,7 @@ A Command-Line Interface (CLI), also known as a terminal or console, is a text-b
 - **Arguments:** These are additional pieces of information you provide to a command to specify how it should operate (e.g., `ls -l` where `-l` is an argument).
 - **Options/Flags:** Similar to arguments, options or flags modify the behavior of a command (often preceded by a hyphen `-` or double hyphen `--`).
 - **Prompt:** The prompt is a symbol (often `$`, `>`, or `#`) that indicates the CLI is ready to accept a command.
-- **Shell:** The shell is the program that interprets the commands you type and executes them. Common shells include Bash (Bourne Again Shell), Zsh (Z Shell), and PowerShell.
+- **Shell:** The shell is the program that interprets the commands you type and executes them. Common shells include **Bash (Bourne Again Shell), Zsh (Z Shell), and PowerShell.**
 
 **Basic Commands (Examples - these may vary slightly depending on the operating system):**
 
@@ -58,3 +58,14 @@ index.html      // (The computer responds)
 - **Software Development:** Many development tools and workflows rely heavily on the CLI.
 
 While the GUI is more user-friendly for most everyday tasks, understanding the CLI gives you a deeper level of control over your computer and opens up new possibilities.
+
+
+npm
+ng 
+various command going to run on this CLI
+
+you can use powershell 
+
+Example:-
+
+Write Powershell Script Or Batch Script to Get All Files whose Size is 
