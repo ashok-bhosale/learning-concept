@@ -15,7 +15,7 @@ Here's a breakdown of key aspects:
 - **Nodes:** These are the devices connected to the network, such as computers, servers, printers, and routers.
 - **Links:** These are the communication channels that connect the nodes, which can be wired (cables) or wireless (radio waves, infrared).
 - **Network Interface Cards (NICs):** These are hardware components that allow devices to connect to the network.
-- **Network Protocols:** These are sets of rules that govern how data is transmitted over the network (e.g., TCP/IP, HTTP).
+- **Network Protocols:** These are **sets of rules** that govern how data is transmitted over the network (e.g., TCP/IP, HTTP). tcp:8080 SOA
 - **Network Devices:** These are devices that manage and control network traffic, such as routers, switches, and hubs.
 
 **Types of Computer Networks:**

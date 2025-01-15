@@ -1,4 +1,6 @@
 
+eg azure CLi,AWS CLi
+
 A Command-Line Interface (CLI), also known as a terminal or console, is a text-based interface used to interact with a computer's operating system. Instead of using a mouse and graphical windows, you type commands as text, which the computer then executes. While many modern users primarily interact with computers through graphical user interfaces (GUIs), understanding the CLI can be powerful for certain tasks, especially in software development, system administration, and automation.
 
 **Key Concepts:**

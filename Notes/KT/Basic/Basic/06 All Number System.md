@@ -50,11 +50,11 @@ Here’s a brief explanation and examples for **Binary**, **Decimal**, **Hexadec
 
 ### **Comparison Table**
 
-|**Number System**|**Base**|**Example**|**Decimal Equivalent**|
-|---|---|---|---|
-|**Binary**|2|`1010`|`10`|
-|**Decimal**|10|`45`|`45`|
-|**Hexadecimal**|16|`1A3`|`419`|
-|**Octal**|8|`57`|`47`|
+| **Number System** | **Base** | **Example** | **Decimal Equivalent** |
+| ----------------- | -------- | ----------- | ---------------------- |
+| **Binary**        | 2        | `1010`      | `10`                   |
+| **Decimal**       | 10       | `45`        | `45`                   |
+| **Hexadecimal**   | 16       | `1A3`       | `419`                  |
+| **Octal**         | 8        | `57`        | `47`                   |
 
 Each system is used in different computing contexts, such as binary for machine-level operations, hexadecimal for memory addressing, and octal in legacy systems.

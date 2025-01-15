@@ -3,17 +3,17 @@ Desktop navigation is fundamental to using a computer effectively. It involves u
 
 **Files**
 
-- **Definition:** A file is a self-contained piece of data stored on a computer. It can be a document, image, program, or any other type of data.
-- **File Types:** Files are identified by their file extensions (e.g., .txt, .docx, .jpg, .exe). The extension indicates the file type and which applications can open it.
-- **File Attributes:** Files have attributes like name, size, date created, date modified, and file type.
-- **Opening Files:** You can open a file by double-clicking it, right-clicking and selecting "Open," or using the "Open" command from within an application.
+- **Definition: A file is a self-contained piece of data stored on a computer. It can be a document, image, program, or any other type of data.**
+- **File Types: Files are identified by their file extensions (e.g., .txt, .docx, .jpg, .exe). The extension indicates the file type and which applications can open it.**
+- **File Attributes: Files have attributes like name, size, date created, date modified, and file type.**
+- **Opening Files: You can open a file by double-clicking it, right-clicking and selecting "Open," or using the "Open" command from within an application.**
 
 **Folders (Directories)**
 
-- **Definition:** A folder (also called a directory) is a container that holds files and other folders. They are used to organize files into a hierarchical structure.
-- **Creating Folders:** You can create new folders by right-clicking on the desktop or in a file explorer window and selecting "New" -> "Folder."
-- **Folder Structure:** Folders can be nested within each other to create a hierarchical structure. This allows you to organize your files into logical categories and subcategories.
-- **Navigating Folders:** You can navigate through folders using the file explorer (Windows) or Finder (macOS). You can also use the address bar to directly enter a folder path.
+- **Definition: A folder (also called a directory) is a container that holds files and other folders. They are used to organize files into a hierarchical structure.**
+- **Creating Folders: You can create new folders by right-clicking on the desktop or in a file explorer window and selecting "New" -> "Folder."**
+- **Folder Structure: Folders can be nested within each other to create a hierarchical structure. This allows you to organize your files into logical categories and subcategories.**
+- **Navigating Folders: You can navigate through folders using the file explorer (Windows) or Finder (macOS). You can also use the address bar to directly enter a folder path.**
 
 **Shortcuts**
 

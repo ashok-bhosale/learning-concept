@@ -16,8 +16,10 @@ File management refers to the process of organizing, storing, retrieving, and ma
 
 - **Create a Consistent Folder Structure:** Organize your files into logical folders and subfolders. For example, you might have folders for "Documents," "Pictures," "Music," and within "Documents," you might have subfolders for "Work," "Personal," and "School."
 - **Use Descriptive File Names:** Use clear and concise file names that accurately reflect the content of the file.
-- **Regularly Back Up Your Files:** Create backups of your important files to protect against data loss due to hardware failure, accidental deletion, or other issues.
-- **Use Cloud Storage:** Consider using cloud storage services like Google Drive, Dropbox, or OneDrive to store and sync your files across multiple devices.
+- ***Regularly Back Up Your Files:** Create backups of your important files to protect against data loss due to hardware failure, accidental deletion, or other issues.*
+- ***Use Cloud Storage:** Consider using cloud storage services like **Google Drive, Dropbox, or OneDrive** to store and sync your files across multiple devices.*
+- 
+**own cloud storage** -n/w adventure=> own cloud storage= 2 /3 machine/ Docker=>
 
 **Task Management**
 

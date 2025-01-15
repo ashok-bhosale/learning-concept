@@ -35,3 +35,12 @@ Use case:- Globalization=> Creating software used across global supporting vario
 **In Summary**
 
 ASCII was a pioneering standard that served its purpose for representing basic English text. However, with the globalization of communication and the need to support diverse languages, Unicode has become the universal standard for character encoding. Its vast character set and efficient encodings like UTF-8 make it the foundation for text representation in modern computing.
+
+multilanguage Website useful- unicode
+
+Spanish,German, English,Russian Language etc  
+
+2 text
+Name=
+
+
